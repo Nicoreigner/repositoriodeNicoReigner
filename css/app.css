@@ -42,11 +42,11 @@ img{
 }
 
 .btn{
-    background-color: ##000000;
+    background-color: #0000;
     display: block;
-    color: #fff;
-    text-transform: uppercase;
-    font-weight: 900;
+    color:#fff;
+    text-transform:uppercase;
+    font-weight:900;
     padding: 1rem;
     transition: background-color .3s ease-out;/*Like borders properties*/
 }
