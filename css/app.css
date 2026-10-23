@@ -260,3 +260,9 @@ img{
     margin-top: 5rem;
     text-align: center;
 }
+.promo-cuotas{
+    background-color: #037bc0;
+    color: #fff;
+    text-align:center;
+    padding: 1rem;
+}
